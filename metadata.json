@@ -1,0 +1,6 @@
+{
+  "name": "ثقافة صحية",
+  "description": "تطبيق مبسط للتوعية العلاجية والثقافة الصحية لجميع الأعمار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
